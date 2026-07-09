@@ -1,0 +1,5 @@
+pandas – Data loading and manipulation
+numpy – Numerical computations
+matplotlib – Data visualization
+seaborn – Statistical visualizations
+warnings – Suppress warning messages
