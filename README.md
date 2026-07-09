@@ -53,18 +53,18 @@ The following evaluation metrics were used:
 ### 1. Clone the Repository
 
 
-git clone https://github.com/yourusername/Student-Dropout-Prediction.git
+
 
 
 ### 2. Navigate to the Project Folder
 
-cd Student-Dropout-Prediction
+
 
 
 ### 3. Install Required Libraries
 
 
-pip install -r requirements.txt
+
 
 
 ### 4. Launch Jupyter Notebook
